@@ -9,9 +9,11 @@
 - Used Power Query for data transformation
 - Performed full Descriptive Statistics (Mean, Median, Std Dev, Skewness, etc.)
 - Identified key patterns and wrote clear insights
+  
 
 **Key Findings**:
 - Average price: £32.58
 - Most common categories: Mystery & Historical Fiction
 - No correlation between price and rating
 - Slight positive price skew
+- All books are in stock
